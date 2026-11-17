@@ -1,0 +1,16 @@
+node_modules
+dist
+.vercel
+.env*
+*.log
+.DS_Store
+
+# local tooling and working notes, not part of the site
+.claude/
+.impeccable/
+_archive/
+screenshots/
+skills-lock.json
+AUDIT.md
+STATE.md
+PRODUCT.md
